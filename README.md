@@ -17,23 +17,7 @@ Most of my work focuses on **real-world problem solving**, not just demos.
   - System tray widgets & extensions
   - Cloud sync (Supabase / Nextcloud)
 
-- 🧠 **AI-based Digital Wellbeing System**
-  - Tracks app usage, RAM, CPU
-  - ML-based focus & time-limit suggestions
-  - Inspired by mobile Digital Wellbeing, but for PC/Linux
-
-- 🎮 **Game AI Coach**
-  - Real-time screen analysis
-  - Vision-language models (LLaVA-style)
-  - Personalized gameplay tips
-  - Flutter Desktop + Python backend
-
-- 📚 **AI-Powered Test & Learning Platform**
-  - PDF → Question Extraction
-  - Smart Test Generator
-  - LLM-based Answer Evaluation
-  - Performance & Weakness Analysis
-  - Fully offline + cloud sync support
+  
 
 ---
 
