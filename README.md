@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishal Singara 🚀
+# 👋 Hi, I'm Vishal Songara 🚀
 
 🎓 Student | 🐧 Linux Enthusiast | 🤖 AI & ML Builder | ⚙️ Systems & OS Explorer  
 
