@@ -96,9 +96,8 @@ class Vishal:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal51512&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal51512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-</p>
+
+---
 
 ---
 
@@ -108,19 +107,11 @@ class Vishal:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake-dark.svg" alt="Contribution snake animation" />
   </picture>
 </p>
-
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal51512&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true" alt="activity" />
-</p>
-
----
 
 ## 🌱 Learning Goals
 
