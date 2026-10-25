@@ -1,51 +1,113 @@
-<!-- Header banner (animated wave) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24c6dc&text=Vishal%20Songara&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Linux%20%C2%B7%20AI%20%C2%B7%20Systems%20%C2%B7%20Deep-Tech&descSize=18&descAlignY=58" alt="header" />
+<!-- =========================
+     HERO
+========================= -->
 
-<!-- Typing animation -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24c6dc&text=Vishal%20Songara&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Systems%20%C2%B7%20AI%20%C2%B7%20Linux%20%C2%B7%20Deep-Tech&descSize=18&descAlignY=60"
+    alt="Vishal Songara"
+  />
+</p>
+
 <p align="center">
   <a href="https://github.com/vishal51512">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=700&lines=Building+NovaAI+OS+%F0%9F%90%A7;AI+Agents+%2B+Linux+Internals+%F0%9F%A4%96;Real-world+problems%2C+not+just+demos+%F0%9F%9A%80;Depth+over+hype.+Systems+over+shortcuts." alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=760&lines=Building+NovaAI+OS+%F0%9F%90%A7;AI+Agents+%2B+Linux+Systems+%F0%9F%A4%96;Engineering+systems%2C+not+just+demos+%E2%9A%99%EF%B8%8F;Depth+over+hype.+Systems+over+shortcuts."
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal51512&label=Profile+Views&color=24c6dc&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/vishal51512?style=for-the-badge&logo=github&color=302b63" alt="followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-24c6dc?style=for-the-badge" alt="collab" />
+  <a href="https://github.com/vishal51512">
+    <img src="https://komarev.com/ghpvc/?username=vishal51512&label=Profile%20Views&color=24c6dc&style=flat-square" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/vishal51512?tab=followers">
+    <img src="https://img.shields.io/github/followers/vishal51512?style=flat-square&logo=github&label=Followers&color=302b63" alt="GitHub followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Systems%20%2B%20AI-24c6dc?style=flat-square" alt="Systems and AI"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hey, I'm Vishal
 
-```python
-class Vishal:
-    role      = "B.Tech CSE Student"
-    college   = "SKIT Jaipur"
-    focus     = ["Linux", "AI Agents", "System Programming", "Productivity Tools"]
-    philosophy = "Build things that actually help people."
-    currently = "Building NovaAI OS"
-    learning  = ["Kernel Development", "Distributed Systems", "Security & Sandboxing"]
+I'm a **B.Tech Computer Science student at SKIT Jaipur** interested in the intersection of:
+
+```text
+Artificial Intelligence
+        ×
+Operating Systems
+        ×
+Systems Programming
+        ×
+Developer Tools
+        ×
+Security
 ```
+
+I like understanding **how things work underneath the abstraction** and then building something useful on top of it.
+
+My current long-term project is **NovaAI OS** — an exploration of what an operating system could look like when AI becomes a native system capability rather than another application.
+
+> **Build useful systems. Understand the internals. Keep going deeper.**
 
 ---
 
-## 🔥 Currently Building
+## 🧠 What I Work On
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 🐧 NovaAI OS
-*A custom Ubuntu Remix where AI is part of the OS, not an app.*
+### 🤖 AI Engineering
 
-| Feature | Description |
-|---|---|
-| 🤖 **AI Agent** | Built-in LLM + voice assistant |
-| 🧘 **Digital Wellbeing** | System-level usage awareness |
-| 🔍 **Universal Search** | AI-powered search across the system |
-| 🧩 **Widgets & Extensions** | System tray widgets, GNOME-style extensions |
-| ☁️ **Cloud Sync** | Supabase / Nextcloud |
+- Local LLMs
+- AI Agents
+- RAG systems
+- LLM orchestration
+- Model inference
+- Embeddings & vector search
+- AI-powered developer tools
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐧 Systems Engineering
+
+- Linux
+- Containers
+- OS architecture
+- System programming
+- Process & resource management
+- Sandboxing
+- Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Security
+
+- System security
+- Sandboxing
+- Intrusion detection
+- Secure application architecture
+- Privacy-focused computing
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Product Engineering
+
+- Flutter applications
+- FastAPI backends
+- Developer tools
+- Productivity systems
+- End-to-end applications
 
 </td>
 </tr>
@@ -53,104 +115,271 @@ class Vishal:
 
 ---
 
-## 🛠️ Tech Stack
+# 🐧 NovaAI OS
 
-**Languages**
+### An AI-native Linux environment
+
+> **AI should be part of the operating system — not just another application running on it.**
+
+NovaAI OS is my long-term systems project exploring an operating environment where AI can understand, assist, and interact with the system itself.
+
+### Architecture direction
+
+```text
+                    ┌──────────────────────┐
+                    │      User Layer      │
+                    │  Apps · UI · Shell    │
+                    └──────────┬───────────┘
+                               │
+                    ┌──────────▼───────────┐
+                    │     AI Layer         │
+                    │ Agents · LLM · RAG   │
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────▼────────────────┐
+              │         System Layer            │
+              │ Processes · Files · Services    │
+              │ Containers · Permissions        │
+              └────────────────┬────────────────┘
+                               │
+                    ┌──────────▼───────────┐
+                    │      Linux           │
+                    │ Kernel · Drivers     │
+                    └──────────────────────┘
+```
+
+### Current ideas
+
+| Component | Direction |
+|---|---|
+| 🤖 AI Agent | Local LLM + system assistant |
+| 🔎 Universal Search | AI-powered system search |
+| 📊 System Awareness | Processes, resources & activity |
+| 🧩 Extensions | Modular system integrations |
+| 📦 Containers | Application isolation |
+| 🔐 Sandboxing | Security & privacy |
+| ☁️ Sync | Optional cloud synchronization |
+| 🧠 AI Scheduler | Intelligent workload management |
+
+**Status:** 🚧 Active research & development
+
+---
+
+# ⚙️ Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,kotlin,dart&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,javascript,bash&theme=dark" alt="Languages"/>
 </p>
 
-**AI / ML**
+### AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" alt="ml" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tesseract-OCR-3178C6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
 </p>
 
-**Backend & Systems**
+### Systems / Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,ubuntu,fedora,supabase,bash&theme=dark" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=linux,fedora,ubuntu,docker,bash,fastapi,supabase&theme=dark" alt="Systems and Backend"/>
 </p>
 
-**Frontend**
+### Application Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" alt="Application Development"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,postman&theme=dark" alt="Developer Tools"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Selected Projects
+
+## 🐧 NovaAI OS
+**AI + Linux + Systems**
+
+An experimental AI-native operating environment focused on local intelligence, system awareness, containerization and automation.
+
+`Linux` `LLM` `Ollama` `Containers` `AI Agents`
+
+---
+
+## 🧠 LoanSense AI
+**RAG-based Loan Advisory System**
+
+A source-backed AI system for answering loan-related questions from bank policy documents.
+
+### Highlights
+
+- PDF ingestion pipeline
+- Semantic search
+- Embeddings
+- FAISS vector search
+- Re-ranking
+- RAG orchestration
+- FastAPI backend
+- Local LLM inference
+
+`Python` `FastAPI` `FAISS` `RAG` `LLM`
+
+---
+
+## 🤖 AI Browser Agent
+**LLM + Browser Automation**
+
+An AI agent capable of interacting with web pages using browser automation and local language models.
+
+`Python` `Playwright` `Ollama` `LLM Agents`
+
+---
+
+## 📱 Student AI Platform
+**AI-powered student productivity application**
+
+A Flutter-based application combining document processing, AI-assisted test generation, OCR, evaluation and analytics.
+
+`Flutter` `FastAPI` `Supabase` `Ollama` `OCR`
+
+---
+
+# 📊 GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishal51512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&include_all_commits=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal51512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&langs_count=8" alt="top langs" />
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=vishal51512&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff&include_all_commits=true"
+    alt="GitHub statistics"
+  />
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal51512&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff&langs_count=8"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal51512&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal51512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+  <img
+    src="https://streak-stats.demolab.com?user=vishal51512&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/vishal51512/vishal51512/output/github-snake-dark.svg"
+      alt="GitHub contribution snake"
+    />
   </picture>
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 🧭 Currently Learning
+
+```text
+Linux Kernel Development
+        ↓
+Advanced Systems Programming
+        ↓
+Distributed Systems
+        ↓
+AI Agents & LLM Infrastructure
+        ↓
+Security & Sandboxing
+        ↓
+AI + Operating System Integration
+```
+
+I'm particularly interested in understanding the layers between:
+
+**Application → Runtime → OS → Kernel → Hardware**
+
+---
+
+# 📈 Engineering Journey
+
+| Area | Current Direction |
+|---|---|
+| 🐧 Linux | System internals & kernel development |
+| 🤖 AI | Agents, RAG & local LLM infrastructure |
+| ⚙️ Systems | Containers, processes & resource management |
+| 🔐 Security | Sandboxing & system security |
+| 🌐 Distributed Systems | Architecture & scalability |
+| 📱 Development | Cross-platform applications |
+| ☁️ Cloud | AWS / GCP |
+| 🧠 Research | AI systems & deep-tech |
+
+---
+
+# 💭 Engineering Philosophy
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal51512&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true" alt="activity" />
+
+### **Depth over hype.**
+
+### **Systems over shortcuts.**
+
+### **Build things that actually help people.**
+
 </p>
 
----
+I don't want to build projects only because they look impressive on a resume.
 
-## 🌱 Learning Goals
-
-- 🐧 Linux Kernel Development
-- ⚙️ Advanced System Programming
-- 🌐 Distributed Systems
-- 🤖 AI Agents + OS Integration
-- 🔐 Security & Sandboxing
+I want to understand the problem, understand the system underneath it, and build something that is actually useful.
 
 ---
 
-## 💡 Philosophy
+# 🤝 Let's Build
+
+I'm interested in collaborating on:
+
+- 🐧 Linux & open-source projects
+- 🤖 AI agents & local AI
+- ⚙️ Systems engineering
+- 🔐 Security & sandboxing
+- 🧠 AI + OS research
+- 🌐 Distributed systems
+- 🛠️ Developer tools
+- 🚀 Deep-tech projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&duration=4000&pause=1500&color=A0A0C0&center=true&vCenter=true&width=700&lines=Build+things+that+actually+help+people.;Not+just+projects+that+look+good+on+resumes." alt="quote" />
+  <a href="https://github.com/vishal51512">
+    <img src="https://img.shields.io/badge/GitHub-vishal51512-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
----
-
-## 🤝 Let's Connect
-
-Open to: **Open Source** · **Fedora Community** · **AI + OS ideas** · **Deep-tech collaborations**
-
-<p>
-  <a href="https://github.com/vishal51512"><img src="https://img.shields.io/badge/GitHub-vishal51512-181717?style=for-the-badge&logo=github" /></a>
-  <!-- Add your links below -->
-  <!-- <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="mailto:YOUR@EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+<p align="center">
+  <b>⭐ If you find something interesting, consider starring the repository.</b>
 </p>
 
-<p align="center">⭐ If you find my projects interesting, star, fork, or start a discussion!</p>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24c6dc,50:302b63,100:0f0c29&section=footer" alt="footer" />
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24c6dc,50:302b63,100:0f0c29&section=footer"
+    alt="Footer"
+  />
+</p>
