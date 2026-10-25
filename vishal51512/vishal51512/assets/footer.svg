@@ -1,0 +1,13 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" fill-opacity=".25" d="M0 60 Q125 20 250 60 T500 60 T750 60 T1000 60 T1250 60 T1500 60 V120 H0Z">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-500 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#g)" fill-opacity=".45" d="M0 80 Q125 50 250 80 T500 80 T750 80 T1000 80 T1250 80 T1500 80 V120 H0Z">
+    <animateTransform attributeName="transform" type="translate" values="-500 0;0 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+</svg>
